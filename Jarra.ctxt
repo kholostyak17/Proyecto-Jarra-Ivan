@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Jarra
+comment1.params=c
+comment1.target=Jarra(int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getCapacidad()
+comment3.params=
+comment3.target=int\ getCantidad()
+comment4.params=litros
+comment4.target=void\ setCantidad(int)
+comment5.params=
+comment5.target=void\ vacia()
+comment6.params=
+comment6.target=void\ llena()
+comment7.params=destino
+comment7.target=void\ vuelcaEn(Jarra)
+comment8.params=
+comment8.target=void\ muestra()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
